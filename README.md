@@ -16,7 +16,7 @@ This project is a 3D model of the BMW logo created using Onshape. The logo was r
 
 ## Project Files
 BMW_Logo.mp4
-BMW_Logo.png
+BMW_Logo.png1.png
 Part Studio 1 - Part 1 (2).stl
 README.md
 
